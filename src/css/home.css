@@ -1,0 +1,12 @@
+h2 {
+  background-color: yellow;
+  font-size: 50px;
+  color: white;
+  width: 90%;
+  border-radius: 10px;
+}
+
+button {
+  padding: 25px;
+  background-color: red;
+}
